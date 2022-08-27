@@ -1,0 +1,25 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 27 Aug 2022 07:30:27 at https://jawal.ae +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://jawal.ae -O1 "C:\My Web Sites\jawal" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+07:32:09	Error: 	"Not Found" (404) at link https://jawal.ae/css/owl.video.play.png (from https://jawal.ae/css/owl.carousel.min.css)
+07:32:09	Error: 	"Not Found" (404) at link https://jawal.ae/css/fonts/glyphicons-halflings-regular.eot (from https://jawal.ae/css/en/bootstrap.css)
+07:32:09	Error: 	"Not Found" (404) at link https://jawal.ae/css/fonts/glyphicons-halflings-regular.eot? (from https://jawal.ae/css/en/bootstrap.css)
+07:32:09	Error: 	"Not Found" (404) at link https://jawal.ae/css/fonts/glyphicons-halflings-regular.woff2 (from https://jawal.ae/css/en/bootstrap.css)
+07:32:09	Error: 	"Not Found" (404) at link https://jawal.ae/css/fonts/glyphicons-halflings-regular.woff (from https://jawal.ae/css/en/bootstrap.css)
+07:32:09	Error: 	"Not Found" (404) at link https://jawal.ae/css/fonts/glyphicons-halflings-regular.ttf (from https://jawal.ae/css/en/bootstrap.css)
+07:32:09	Error: 	"Not Found" (404) at link https://jawal.ae/css/fonts/glyphicons-halflings-regular.svg (from https://jawal.ae/css/en/bootstrap.css)
+07:32:27	Error: 	"Not Found" (404) at link https://jawal.ae/sms/en/sendSMS.html (from https://jawal.ae/sms/ticket/ticketAdd.php)
+07:32:27	Error: 	"Not Found" (404) at link https://jawal.ae/sms/ticket/news.php (from https://jawal.ae/sms/ticket/ticketAdd.php)
+07:32:27	Error: 	"Not Found" (404) at link https://jawal.ae/css/ar/DroidKufi-Regular.eot (from https://jawal.ae/css/ar/style.css)
+07:32:27	Error: 	"Not Found" (404) at link https://jawal.ae/css/ar/DroidKufi-Regular.eot? (from https://jawal.ae/css/ar/style.css)
+07:32:28	Error: 	"Not Found" (404) at link https://jawal.ae/sms/images/program_slider/adBannerExpandBG.png (from https://jawal.ae/sms/css/style.css)
+07:32:28	Error: 	"Not Found" (404) at link https://jawal.ae/sms/images/helpBG.png (from https://jawal.ae/sms/css/style.css)
+07:32:28	Error: 	"Not Found" (404) at link https://jawal.ae/sms/images/helpIcon.png (from https://jawal.ae/sms/css/style.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 1 seconds : 213 links scanned, 197 files written (12921035 bytes overall) [12980131 bytes received at 107273 bytes/sec], 26711 bytes transferred using HTTP compression in 1 files, ratio 25%, 9.1 requests per connection
+(14 errors, 0 warnings, 0 messages)
